@@ -1,0 +1,6 @@
+Entity,foo,Trans,B,AgreedFx,12,Currency,SGP,Units,10,Price per unit,14
+Entity,bar,Trans,S,AgreedFx,4,Currency,SAE,Units,3,Price per unit,6
+Entity,bar,Trans,S,AgreedFx,2,Currency,AUD,Units,2,Price per unit,2
+Entity,foo,Trans,B,AgreedFx,4,Currency,SA,Units,2,Price per unit,2
+Entity,bar,Trans,S,AgreedFx,1,Currency,USD,Units,100,Price per unit,14
+Entity,bar,Trans,S,AgreedFx,1,Currency,USD,Units,100,Price per unit,14
