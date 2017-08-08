@@ -1,0 +1,4 @@
+---------------------Daily Report-----------------
+SALE Amount in USD Settled Outgoing Everyday: 2880
+BUY Amount in USD Settled Incoming Everyday: 1696
+-------------------------------------------------
